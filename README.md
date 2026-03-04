@@ -1,14 +1,10 @@
-# GenAI and Agent in Neuroimaging
+# ECG Analysis
 
-Illustration of AI models: Transformer ⊂ LLM ⊂ GenAI ⊂ DL ⊂ ML ⊂ AI
-
-Agent (orchestrator) is a code framework and the model (brain) is a function inside this code—and when code is run, agent starts to work
-
-MRI-PET pipeline with agent framework - GenAI creates PET image
+ECG analysis pipeline with agent framework - GenAI creates ? based on ECH signal form Apple Watch
 
 ---
 
-# Software
+# Pipeline
 
 
 1. Input: MRI neuroimage
