@@ -1,6 +1,6 @@
 # ECG Analysis
 
-ECG analysis pipeline with agent framework - GenAI creates ? based on ECH signal form Apple Watch
+ECG analysis pipeline with agent framework. Pipeline takes an ECG signal measured with Apple Watch, and uses agentic GenAI to create a matching data file. Data analysis is done with these two files. (Unfinished)
 
 ---
 
