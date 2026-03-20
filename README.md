@@ -1,6 +1,6 @@
 # ECG Analysis
 
-ECG analysis pipeline with agent framework. Pipeline takes an ECG signal measured with Apple Watch, and uses agentic GenAI to create a matching data file. Data analysis is done with these two files. (Unfinished)
+ECG analysis pipeline with agent framework. Pipeline takes an ECG signal measured with Apple Watch, and uses AI engineering generative models, cloud computing: autonomous systems) to create a matching data file. (This project is unfinished)
 
 ---
 
